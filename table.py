@@ -5,3 +5,4 @@ while n!=0:
         for j in range(1,n+1,1):
             print(f"{j} * {i} = {i*j}", end='\t')
         print()
+        print(123)
